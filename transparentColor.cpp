@@ -1,4 +1,4 @@
-//z-buffer
+//Transparency
 
 #include <stdio.h>
 #include <iostream>
